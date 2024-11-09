@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/faroukmanar/event-planner-website/static/css/main.d4e17cc1.css",
+    "main.js": "/faroukmanar/event-planner-website/static/js/main.eb005243.js",
+    "static/media/im7-gallery.jpeg": "/faroukmanar/event-planner-website/static/media/im7-gallery.cea60fe1ed0539f91d25.jpeg",
+    "static/media/im5-gallery.jpeg": "/faroukmanar/event-planner-website/static/media/im5-gallery.355920232a07464564af.jpeg",
+    "static/media/im2-gallery.jpeg": "/faroukmanar/event-planner-website/static/media/im2-gallery.f8cdeacf77baad12cb52.jpeg",
+    "static/media/im4-gallery.jpeg": "/faroukmanar/event-planner-website/static/media/im4-gallery.ff7fa28debab86a96f36.jpeg",
+    "static/media/im8-gallery.jpeg": "/faroukmanar/event-planner-website/static/media/im8-gallery.e4efac2a569b1d13049b.jpeg",
+    "static/media/im1-gallery.jpeg": "/faroukmanar/event-planner-website/static/media/im1-gallery.27c0d8733a5c0dac0200.jpeg",
+    "static/media/heroimg.jpeg": "/faroukmanar/event-planner-website/static/media/heroimg.3e2c9d5c06fe42041ffe.jpeg",
+    "static/media/service2.jpeg": "/faroukmanar/event-planner-website/static/media/service2.bcfc233ffbaac19b8b3d.jpeg",
+    "static/media/im6-gallery.jpeg": "/faroukmanar/event-planner-website/static/media/im6-gallery.c362c94f7f3c97ea9f87.jpeg",
+    "static/media/service1.jpeg": "/faroukmanar/event-planner-website/static/media/service1.a39f2c57f2267f44e6df.jpeg",
+    "static/media/im9-gallery.jpeg": "/faroukmanar/event-planner-website/static/media/im9-gallery.5b7e32e9642ee373a0dc.jpeg",
+    "static/media/im3-gallery.jpeg": "/faroukmanar/event-planner-website/static/media/im3-gallery.74c5299513b36a118ccd.jpeg",
+    "static/media/service3.jpeg": "/faroukmanar/event-planner-website/static/media/service3.33545833df91ef3dfb64.jpeg",
+    "static/media/logo.png": "/faroukmanar/event-planner-website/static/media/logo.34ce3250f8437fd606e8.png",
+    "index.html": "/faroukmanar/event-planner-website/index.html",
+    "main.d4e17cc1.css.map": "/faroukmanar/event-planner-website/static/css/main.d4e17cc1.css.map",
+    "main.eb005243.js.map": "/faroukmanar/event-planner-website/static/js/main.eb005243.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4e17cc1.css",
+    "static/js/main.eb005243.js"
+  ]
+}
